@@ -2,5 +2,5 @@ using UnityEngine;
 
 public class GameConfig : MonoBehaviour
 {
-    public string nombreNivel = "Nivel1";
+    public string nombreNivel = "Jugador";
 }
